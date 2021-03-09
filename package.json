@@ -23,7 +23,7 @@
 	},
 	"main": "ipp.js",
 	"engines": {
-		"node": "<4.0.0"
+		"node": "^4.0.0"
 	},
 	"licenses": [
 		{
